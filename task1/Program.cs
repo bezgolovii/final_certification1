@@ -18,7 +18,6 @@ for (int i = 0; i < inputArray.Length; i++)
     }
 }
 
-
 foreach (string s in shortStrings)
 {
     Console.Write(s + " , ");
